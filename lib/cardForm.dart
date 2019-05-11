@@ -203,6 +203,7 @@ class cardFormState extends State<cardForm> {
                       borderSide: BorderSide(color: Colors.blue, width: 2.0)),
                   border: OutlineInputBorder(
                       borderRadius: BorderRadius.all(Radius.circular(10.0)),
+
                       borderSide: BorderSide(color: Colors.grey, width: 2.0)))),
         ),
       );
